@@ -22,7 +22,7 @@ git clone https://github.com/cmbitz/ATMS559-hw2-analysis.git
 ```
 
 ## Start the notebook
-Navigate to the directory whee you just put the code with the directory tree on the left.
+Navigate to the directory where you just put the code with the directory tree on the left.
 Click on the notebook TOA_ERF_ECS.ipynb
 
 If you need to choose a python environment, NPL 2024a worked for me
