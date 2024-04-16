@@ -1,10 +1,10 @@
 # ATMS559 basic analysis for HW2
 
-# Get on the NCAR Jupyter Hub. I recommend using Chrome for your browser.
+## Get on the NCAR Jupyter Hub. I recommend using Chrome for your browser.
 
 [jupyterhub.hpc.ucar.edu/stable/hub/home](https://jupyterhub.hpc.ucar.edu/stable/hub/home) 
 
-# Installation
+## Installation
 
 You will need to install the code from a Terminal on NCAR's system,
 either Casper or Derecho. To get to a Terminal, go to the + tab at the
@@ -21,7 +21,7 @@ cd /glade/work/$USER
 git clone https://github.com/cmbitz/ATMS559-hw2-analysis.git
 ```
 
-# Start the notebook
+## Start the notebook
 Navigate to the directory whee you just put the code with the directory tree on the left.
 Click on the notebook TOA_ERF_ECS.ipynb
 
